@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bottle_Flask_Requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DevNet_BS4_Spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Devnet_CCNA_Guestshell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Devnet_CCNA_Netconf_Auto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Devnet_Enhance_API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_Network_Classic_Protocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_last" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_basic" vcs="Git" />
+  </component>
+</project>
